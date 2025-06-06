@@ -19,6 +19,6 @@ Train a classification model to identify Iris flower species (Setosa, Versicolor
 ## 📂 Dataset
 Scikit-learn built-in Iris dataset
 ## 🧪 Run the code
-bash
+```bash
 pip install -r requirements.txt
 python iris.py
